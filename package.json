@@ -1,0 +1,23 @@
+{
+  "name": "angular2-google-map-component",
+  "version": "0.0.1",
+  "description": "Angular 2 google map component",
+  "main": "angular2-google-map-component.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc"
+  },
+  "keywords": [
+    "angular2",
+    "googlemap",
+    "map"
+  ],
+  "author": "Sam Thomson",
+  "license": "MIT",
+  "dependencies": {
+    "angular2": "^2.0.0-beta.21"
+  },
+  "devDependencies": {
+    "typescript": "^2.1.4"
+  }
+}
